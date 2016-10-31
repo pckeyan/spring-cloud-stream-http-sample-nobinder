@@ -1,0 +1,17 @@
+target/
+bin/
+build/
+.externalToolBuilders/
+.settings/
+.project
+.classpath
+.DS_Store
+.svn/
+maven-eclipse.xml
+*.log
+*.iml
+.idea/
+*.out
+overlays
+*.pmd
+*.iws
